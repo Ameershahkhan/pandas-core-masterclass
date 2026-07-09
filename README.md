@@ -7,7 +7,7 @@
   <li><b>Objective:</b>Building a high-performance Data Science foundation for entry-level engineering roles.</li>
 </ul>
 
-<h3>Owerview</h3>
+<h3>Overview</h3>
 <p>This module transitions foundational NumPy multi-dimensional array knowledge into high-performance, tabular production data pipelines</br>
 using <b>Pandas</b>.The core guiding principle of this track was the <b>80/20 Rule</b>:mastering the critical 20% of optimized syntax that handles 
 80% of real-world production data logic while completely avoiding slow Python loops.
